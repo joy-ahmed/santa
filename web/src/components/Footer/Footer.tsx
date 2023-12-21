@@ -10,12 +10,12 @@ const Footer = () => {
       <p className="font-sans font-medium text-scotchMist">
         Copyright &copy;2023.{' '}
         <a
-          href="https://ahhacreative.com"
+          href="https://github.com/joy-ahmed"
           target="_blank"
           rel="noreferrer"
           className="underline hover:no-underline"
         >
-          Ah Ha Creative, LLC
+          Joy Ahmed
         </a>
         . All Rights Reserved.
         <br />
