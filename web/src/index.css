@@ -16,6 +16,17 @@
 
 
 @layer base {
+  body{
+    overflow-x: hidden;
+  }
+  ::-webkit-scrollbar {
+    width: 0 !important;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background-color: transparent !important;
+  }
+
   .label,
   label {
     @apply font-handwriting uppercase text-xl tracking-tighter
